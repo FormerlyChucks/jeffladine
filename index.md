@@ -1,5 +1,5 @@
 ---
-title: Adam J. LaDine
+title: Jeffrey LaDine
 ---
 
 [About](./about)

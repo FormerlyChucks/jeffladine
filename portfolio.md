@@ -1,5 +1,5 @@
 ---
-title: Adam LaDine Portfolio
+title: Jeffrey LaDine Portfolio
 ---
 
 # Portfolio
